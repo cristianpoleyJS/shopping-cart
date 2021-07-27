@@ -5,7 +5,7 @@
 > A simple and easily scalable application to __sell products__ and __apply discounts__ in a physical store.
 
 ## [App](https://shopping-cart-cryptos.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/aac80718-eb8f-40ca-a84b-db0022e81890/deploy-status)](https://app.netlify.com/sites/shopping-cart-cryptos/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/48978df0-9178-4c76-bfc3-a7e11ffedc02/deploy-status)](https://app.netlify.com/sites/shopping-cart-cryptos/deploys)
 
 ## Quick start
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Close</title>
+    <defs>
+        <filter x="-6.1%" y="-10.2%" width="112.1%" height="120.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="16" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.129411765   0 0 0 0 0.133333333   0 0 0 0 0.250980392  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Modal" filter="url(#filter-1)" transform="translate(-1008.000000, -10.000000)" fill="#A7A7B3">
+            <g id="Right-Column" transform="translate(808.000000, 32.000000)">
+                <g id="Path" transform="translate(224.000000, 0.000000)">
+                    <path d="M12.0104076,10.5961941 L17.3137085,5.29289322 C17.7042328,4.90236893 18.3373978,4.90236893 18.7279221,5.29289322 C19.1184464,5.68341751 19.1184464,6.31658249 18.7279221,6.70710678 L13.4246212,12.0104076 L18.7279221,17.3137085 C19.1184464,17.7042328 19.1184464,18.3373978 18.7279221,18.7279221 C18.3373978,19.1184464 17.7042328,19.1184464 17.3137085,18.7279221 L12.0104076,13.4246212 L6.70710678,18.7279221 C6.31658249,19.1184464 5.68341751,19.1184464 5.29289322,18.7279221 C4.90236893,18.3373978 4.90236893,17.7042328 5.29289322,17.3137085 L10.5961941,12.0104076 L5.29289322,6.70710678 C4.90236893,6.31658249 4.90236893,5.68341751 5.29289322,5.29289322 C5.68341751,4.90236893 6.31658249,4.90236893 6.70710678,5.29289322 L12.0104076,10.5961941 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

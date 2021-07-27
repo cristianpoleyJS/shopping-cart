@@ -1,0 +1,16 @@
+[
+    {
+        "id": 2926064041118704,
+        "productCode": "X2G2OPZ",
+        "typeDiscount": "two_for_one",
+        "title": "2x1 Mug offer"
+    },
+    {
+        "id": 7356935389373248,
+        "productCode": "X7R2OPX",
+        "minElements": 3,
+        "discountPercent": 0.05,
+        "typeDiscount": "bulk",
+        "title": "x3 Sweatshirt offer"
+    }
+]

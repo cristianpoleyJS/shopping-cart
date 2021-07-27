@@ -1,0 +1,20 @@
+[
+    {
+        "code": "X7R2OPX",
+        "price": 20,
+        "name": "Sweatshirt",
+        "description": "A piece of informal clothing with long sleeves, usually made of thick cotton, worn on the upper part of the body"
+    },
+    {   
+        "code": "X2G2OPZ",
+        "price": 5,
+        "name": "Mug",
+        "description": "A cup is a container with a single handle, used basically to drink liquids, usually hot."
+    },
+    {   
+        "code": "X3W2OPY",
+        "price": 10,
+        "name": "Cap",
+        "description": "Clothing that covers the head, usually made of fabric or leather, especially the one with a rounded shape and a visor."
+    }
+]

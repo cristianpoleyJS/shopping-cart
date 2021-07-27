@@ -1,0 +1,27 @@
+{
+    "views": { },
+    "components": {
+        "product": {
+            "code": "Código de producto"
+        },
+        "product_details": {
+            "add_to_cart": "Añadir al carrito"
+        },
+        "section_products": {
+            "title": "Carrito de compras",
+            "details": "Detalles del producto",
+            "quantity": "Cantidad",
+            "price": "Precio",
+            "total": "Total",
+            "empty": "No hay productos en nuestra tienda, ¡lo siento!"
+        },
+        "section_summary": {
+            "title": "Resumen del pedido",
+            "items": "{numItems} Elementos",
+            "discounts": "Descuentos",
+            "total": "Coste total",
+            "checkout": "Pasar por caja",
+            "finish_buy": "¡Compra realizada!, recibirás tu pedido pronto."
+        }
+    }
+}

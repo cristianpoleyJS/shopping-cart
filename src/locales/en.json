@@ -1,0 +1,27 @@
+{
+    "views": { },
+    "components": {
+        "product": {
+            "code": "Product code"
+        },
+        "product_details": {
+            "add_to_cart": "Add to cart"
+        },
+        "section_products": {
+            "title": "Shopping cart",
+            "details": "Product details",
+            "quantity": "Quantity",
+            "price": "Price",
+            "total": "Total",
+            "empty": "There are no products in our store, sorry!"
+        },
+        "section_summary": {
+            "title": "Order Summary",
+            "items": "{numItems} Items",
+            "discounts": "Discounts",
+            "total": "Total cost",
+            "checkout": "Checkout",
+            "finish_buy": "Purchase made, you will receive your order soon."
+        }
+    }
+}
